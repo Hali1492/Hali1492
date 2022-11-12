@@ -5,11 +5,11 @@
 <ul>
   <li>Open to new opportunities!</li>
   <li>HTML, CSS, Javascript, Apex, LWC, Aura, Integration, SOQL, NodeJS, C#, Agile </li>
-  <li><strong>linkedIn:</strong>  <a target="_blank" href="linkedin.com/in/hasan-ali-memisoglu"><strong> Hasan Ali MEMISOGLU - USA </strong></a> </li>
+  <li><strong>linkedIn:</strong>  <a target="_blank" href="linkedin.com/in/hasan-ali-memisoglu"><strong> Hasan Ali MEMISOGLU  </strong></a> </li>
   <li><strong>Trailhead: </strong> <a href="https://trailblazer.me/id/hmemiolu" target="_blank"><strong>Hasan Ali MEMISOGLU</strong></a> </li>
 </ul>
 
-<p align="justify">I am a Salesforce Developer with the skills of Apex, LWC, Aura, HTML, CSS, JAVASCRIPT, NODE JS, REACT, REACT-NATIVE, MONGO DB, SQL, SOQL, SOSL, AGILE, GIT & GITHUB, ... I have management experience over 10 years.</p>
+<p align="justify">I am a Salesforce Developer with the skills of Apex, LWC, Aura, HTML, CSS, JAVASCRIPT, NODE JS, C#, SOQL, SOSL, AGILE, GIT & GITHUB, ... I have management experience over 2 years.</p>
 
 
 
